@@ -1,0 +1,24 @@
+# 忽略编译生成的文件
+target/
+
+# Eclipse IDE
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+.idea/
+
+# 已编译的class文件
+*.class
+
+# Maven构建产物
+log/
+logs/
+*.log
+*.log.*
+*.log/
+*.lck
+
+# 已编译的字节码
+*.class
